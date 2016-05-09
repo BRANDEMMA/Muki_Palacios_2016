@@ -137,7 +137,7 @@
 			<div class="clear"></div>
 			<div class="contenedor-video">
 				<h2>VIDEO FLORECER DONDE ESTAS PLANTADO</h2>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/tZwylgKnpq4" frameborder="0" allowfullscreen></iframe>
+				<video poster="video/video-psicologia-positiva.jpg" width="70%" preload loop controls><source src="video/video.ogv" type="video/ogv"><source src="video/video.mp4" type="video/mp4"></video>
 			</div>
 			<div class="empresas-invierten">
 				<h2>EMPRESAS QUE INVIERTEN EN FELICIDAD</h2>
