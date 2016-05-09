@@ -111,28 +111,28 @@
 				<script src="js/slider.js"></script>
 			</div>
 			<div class="servicios reinventa-mujer">
-				<a class="enlace-logo-rm" href=""><img src="img/reinventa-mujer.jpg"></a>
-				<a class="enlace-foto1" href=""><img src="img/foto1.jpg"></a>
-				<a class="enlace-foto2" href=""><img src="img/rm2-p.jpg"></a>
-				<a class="enlace-foto3" href=""><img src="img/foto3.jpg"></a>
+				<a class="enlace-logo-rm" href="http://www.mukipalacios.com/reinventa-mujer-2/"><img src="img/reinventa-mujer.jpg"></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/reinventa-mujer-2/"><img src="img/foto1.jpg"></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/reinventa-mujer-2/"><img src="img/rm2-p.jpg"></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/reinventa-mujer-2/"><img src="img/foto3.jpg"></a>
 			</div>
 			<div class="servicios felicidad-trabajo">
-				<a class="enlace-logo-ft" href=""><img src="img/felicidad-en-el-trabajo.jpg"></a>
-				<a class="enlace-foto1" href=""><img src="img/f1.jpg"></a>
-				<a class="enlace-foto2" href=""><img src="img/f2.jpg"></a>
-				<a class="enlace-foto3" href=""><img src="img/f3.jpg"></a>
+				<a class="enlace-logo-ft" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/felicidad-en-el-trabajo.jpg"></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/f1.jpg"></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/f2.jpg"></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/f3.jpg"></a>
 			</div>
 			<div class="servicios camina">
-				<a class="enlace-logo-cm" href=""><img src="img/camina.jpg"></a>
-				<a class="enlace-foto1" href=""><img src="img/c1.jpg"></a>
-				<a class="enlace-foto2" href=""><img src="img/c2.jpg"></a>
-				<a class="enlace-foto3" href=""><img src="img/c3.jpg"></a>
+				<a class="enlace-logo-cm" href="http://www.mukipalacios.com/camina-2/"><img src="img/camina.jpg"></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/camina-2/"><img src="img/c1.jpg"></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/camina-2/"><img src="img/c2.jpg"></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/camina-2/"><img src="img/c3.jpg"></a>
 			</div>
 			<div class="servicios familias-felices">
-				<a class="enlace-logo-ff" href=""><img src="img/familias-felices.jpg"></a>
-				<a class="enlace-foto1" href=""><img src="img/fa1.jpg"></a>
-				<a class="enlace-foto2" href=""><img src="img/fa2.jpg"></a>
-				<a class="enlace-foto3" href=""><img src="img/fa3.jpg"></a>
+				<a class="enlace-logo-ff" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/familias-felices.jpg"></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/fa1.jpg"></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/fa2.jpg"></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/fa3.jpg"></a>
 			</div>
 			<div class="clear"></div>
 			<div class="contenedor-video">
