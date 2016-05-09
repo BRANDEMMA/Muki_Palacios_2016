@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>MUKI PALACIOS</title>
+	<title>MUKI PALACIOS - Galería</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="" />
 
@@ -97,20 +97,46 @@
 		<div class="derecha-contenido">
 			<div class="contenedor-taller-conferencia">
 				<div class="conferencias">
-				<h2>CONFERENCIAS</h2>
-					<a href="img/formato-conferencia-la-pasion-de-ser-mujer.jpg" data-lightbox="example-set"><img class="talleres" src="img/formato-conferencia-la-pasion-de-ser-mujer.jpg"></a>
-					<a href="img/conferencia-la-pasion-de-ser-mujer.jpg" data-lightbox="example-set"><img class="talleres" src="img/conferencia-la-pasion-de-ser-mujer.jpg"></a>
-					<a href="img/conferencia-el-reto-de-ser-mujer.jpg" data-lightbox="example-set"><img class="talleres" src="img/conferencia-el-reto-de-ser-mujer.jpg"></a>
-					<a href="img/conferencia-es-posible-ser-feliz-en-la-vida.jpg" data-lightbox="example-set"><img class="talleres" src="img/conferencia-es-posible-ser-feliz-en-la-vida.jpg"></a>
-					<a href="img/conferencia-construyendo-organizaciones-felices.jpg" data-lightbox="example-set"><img class="talleres" src="img/conferencia-construyendo-organizaciones-felices.jpg"></a>
-				</div>
-				<div class="talleres">
-					<h2>TALLERES</h2>
-					<a href="img/formato-masivo-camina.jpg" data-lightbox="example-set"><img class="talleres" src="img/formato-masivo-camina.jpg"></a>
-					<a href="img/formato-masivo-fet.jpg" data-lightbox="example-set"><img class="talleres" src="img/formato-masivo-fet.jpg"></a>
-					<a href="img/formato-masivo-rm.jpg" data-lightbox="example-set"><img class="talleres" src="img/formato-masivo-rm.jpg"></a>
-					<a href="img/formato-masivo-familias-felices.jpg" data-lightbox="example-set"><img class="talleres" src="img/formato-masivo-familias-felices.jpg"></a>
-				</div>
+
+
+				<h2>VIDEOS</h2>
+
+				<a href="https://www.youtube.com/user/mukipd/videos"><img class="videoscien" src="img/videos-muki.jpg"> </a>
+
+				
+				<h2>Imágenes</h2>
+
+			<div class="servicios reinventa-mujer">
+				<a class="enlace-logo-rm" href="http://www.mukipalacios.com/reinventa-mujer-2/" target="_blank"><img src="img/reinventa-mujer.jpg" ></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/reinventa-mujer-2/" target="_blank"><img src="img/foto1.jpg" ></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/reinventa-mujer-2/" target="_blank"><img src="img/rm2-p.jpg" ></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/reinventa-mujer-2/" target="_blank"><img src="img/foto3.jpg"></a>
+			</div>
+			<div class="servicios felicidad-trabajo">
+				<a class="enlace-logo-ft" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/felicidad-en-el-trabajo.jpg"></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/f1.jpg"></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/f2.jpg"></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/f3.jpg"></a>
+			</div>
+			<div class="servicios camina">
+				<a class="enlace-logo-cm" href="http://www.mukipalacios.com/camina-2/" target="_blank"><img src="img/camina.jpg"></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/camina-2/"target="_blank"><img src="img/c1.jpg"></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/camina-2/"target="_blank"><img src="img/c2.jpg"></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/camina-2/"target="_blank"><img src="img/c3.jpg"></a>
+			</div>
+			<div class="servicios familias-felices">
+				<a class="enlace-logo-ff" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/familias-felices.jpg"></a>
+				<a class="enlace-foto1" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/fa1.jpg"></a>
+				<a class="enlace-foto2" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/fa2.jpg"></a>
+				<a class="enlace-foto3" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/" target="_blank"><img src="img/fa3.jpg"></a>
+			</div>
+			<div class="clear"></div>
+
+
+
+
+
+				
 			</div>
 		</div>
 	</div>

@@ -110,6 +110,8 @@
 				</div>
 				<script src="js/slider.js"></script>
 			</div>
+
+
 			<div class="servicios reinventa-mujer">
 				<a class="enlace-logo-rm" href="http://www.mukipalacios.com/reinventa-mujer-2/"><img src="img/reinventa-mujer.jpg"></a>
 				<a class="enlace-foto1" href="http://www.mukipalacios.com/reinventa-mujer-2/"><img src="img/foto1.jpg"></a>
@@ -135,6 +137,8 @@
 				<a class="enlace-foto3" href="http://www.mukipalacios.com/felicidad-en-el-trabajo-2/"><img src="img/fa3.jpg"></a>
 			</div>
 			<div class="clear"></div>
+
+			
 			<div class="contenedor-video">
 				<h2>VIDEO FLORECER DONDE ESTAS PLANTADO</h2>
 				<video poster="video/video-psicologia-positiva.jpg" width="70%" preload loop controls><source src="video/video.ogv" type="video/ogv"><source src="video/video.mp4" type="video/mp4"></video>

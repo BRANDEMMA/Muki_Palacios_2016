@@ -765,7 +765,11 @@ header{
 /*--==================== ESTILOS DE LA SECCION ¿QUIENES SOMOS? (TERMINA) ========================--*/
 
 
+img.videoscien{
+  width: 100%;
+  height: auto;
 
+}
 
 
 /*--==================== ESTILOS DE LA SECCION PSICOLOGIA POSITIVA (INICIA) ========================--*/
@@ -1570,7 +1574,7 @@ header{
   font-size: 1.5em;
   font-weight: lighter;
 }
-.contenedor-taller-conferencia img{
+.contenedor-taller-conferencia img.talleres{
   margin-bottom: 5%;
   margin-right: 2%;
   width: 30%;
