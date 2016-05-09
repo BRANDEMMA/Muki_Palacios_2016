@@ -1382,6 +1382,25 @@ header{
   padding: 0 2% 2% 0;
   width: 68%;
 }
+.descripcion-izquierda h2{
+  font-weight: lighter;
+  margin-top: 0;
+}
+.verde-oscuro{
+  color: #007A77;
+}
+.rosado{
+  color: #F4C2D4;
+}
+.verde{
+  color: #00994C; 
+}
+.rojo{
+  color: #E2283B;
+}
+.azul{
+  color: #135BA1;
+}
 .descripcion-izquierda p{
   margin-top: 0;
 }
