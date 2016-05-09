@@ -1560,6 +1560,27 @@ header{
 
 
 
+/*--==================== ESTILOS DE LA SECCION CONFERENCIAS-TALLERES (INICIA) ========================--*/
+.contenedor-taller-conferencia{
+  width: 80%;
+}
+.contenedor-taller-conferencia h2{
+  color: #5E5E5E;
+  font-family: "my-riad-pro-regular";
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+.contenedor-taller-conferencia img{
+  margin-bottom: 5%;
+  margin-right: 2%;
+  width: 30%;
+}
+
+/*--==================== ESTILOS DE LA SECCION CONFERENCIAS-TALLERES (TERMINA) ========================--*/
+
+
+
+
 
 /*--==================== ESTILOS DE SERVICIOS DE FELICIDAD (INICIA) ========================--*/
 /*===  ESTILOS CONTENIDO DERECHA (INICIA)  ===*/
