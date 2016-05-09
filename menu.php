@@ -194,12 +194,12 @@
 
 										</p>
 
-											<a href="conferencias.php"><h2>Conferencias</h2></a>
+											<a href="conferencias-talleres.php"><h2>Conferencias</h2></a>
 											<p> Inspiramos. Motivamos. Creemos en ti.
 
 											</p>
 
-												<a href="talleres.php"><h2>Talleres</h2></a>
+												<a href="conferencias-talleres.php"><h2>Talleres</h2></a>
 												<p>Trabajando en nuestro crecimiento personal
 
 												</p>
