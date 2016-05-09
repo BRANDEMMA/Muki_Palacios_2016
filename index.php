@@ -130,9 +130,9 @@
 			</div>
 			<div class="servicios familias-felices">
 				<a class="enlace-logo-ff" href=""><img src="img/familias-felices.jpg"></a>
-				<a class="enlace-foto1" href=""><img src="img/foto1.jpg"></a>
-				<a class="enlace-foto2" href=""><img src="img/foto2.jpg"></a>
-				<a class="enlace-foto3" href=""><img src="img/foto3.jpg"></a>
+				<a class="enlace-foto1" href=""><img src="img/fa1.jpg"></a>
+				<a class="enlace-foto2" href=""><img src="img/fa2.jpg"></a>
+				<a class="enlace-foto3" href=""><img src="img/fa3.jpg"></a>
 			</div>
 			<div class="clear"></div>
 			<div class="contenedor-video">
