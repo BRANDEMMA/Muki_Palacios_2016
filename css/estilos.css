@@ -829,12 +829,16 @@ img.videoscien{
 }
 .nuestra-filosofia p{
   color: #9D9EA2;
-  margin-top: 25%;
-  margin-bottom: 40%;
+  margin-top: 10%;
+  line-height: 1.6em;
+  margin-bottom: 35%;
 }
 .linea-colores{
   margin-top: 5%;
   width: 100%;
+}
+.alto-colores{
+  height: 150px;
 }
 .linea-colores img{
   width: 100%;
