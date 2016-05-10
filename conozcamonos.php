@@ -156,7 +156,8 @@
 		  				<i class="fa fa-facebook-official" aria-hidden="true"></i>Facebook: <a href="https://www.facebook.com/PsicologiaPositivaPeru/?fref=ts" target="_blank">https://www.facebook.com/PsicologiaPositivaPeru/?fref=ts</a><br>
 		  				<i class="fa fa-phone-square" aria-hidden="true"></i>Teléfonos de Contacto: <a href="tel: 985047849" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">985 047 849</a>  - rpm: <a href="tel: *555558" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">*555558</a>
 	  				</p>
-
+	  			</div>
+	  			</div>
 			</div>
 		</div>
 	</div>

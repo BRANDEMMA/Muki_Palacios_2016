@@ -1710,7 +1710,7 @@ img.videoscien{
   border: 5px solid #41A82D;
   border-radius: 50px;
   margin: 0 auto;
-  width: 90%;
+  width: 80%;
 }
 .contenido-conozcamonos h2{
   margin-top: 0;
@@ -1750,7 +1750,6 @@ img.videoscien{
 /* -------------------------------------------------------- */
 .contenedor-formulario{
   margin: 0 auto;
-  padding-bottom: 35%;
   padding-top: 10%;
   text-align: center;
   width: 80%;
