@@ -99,12 +99,12 @@
 				<div class="conferencias">
 
 
-				<h2>VIDEOS</h2>
+				<h2>PRENSA</h2>
 
 				<a href="https://www.youtube.com/user/mukipd/videos"><img class="videoscien" src="img/videos-muki.jpg"> </a>
 
 				
-				<h2>Imágenes</h2>
+				<h2>GALERÍA</h2>
 
 			<div class="servicios reinventa-mujer">
 				<a class="enlace-logo-rm" href="http://www.mukipalacios.com/reinventa-mujer-2/" target="_blank"><img src="img/reinventa-mujer.jpg" ></a>

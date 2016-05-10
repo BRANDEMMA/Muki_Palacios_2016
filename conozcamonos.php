@@ -145,15 +145,18 @@
 					<script type="text/javascript" src="js/bootstrap.min.js"></script>  
 	  				<script type="text/javascript" src="js/functions.js"></script>
 
-	  				<!-- <div class="informacion-contacto">
-		  				<p>
-		  					<i class="fa fa-envelope" aria-hidden="true"></i>Correos: <a href="mailto:fvila@mukipalacios.com">fvila@mukipalacios.com</a> - <a href="mailto:muki@mukipalacios.com">Muki@mukipalacios.com</a><br>
-			  				<i class="fa fa-globe" aria-hidden="true"></i>Página Web: <a href="http://www.mukipalacios.com/">www.mukipalacios.com</a><br>
-			  				<i class="fa fa-facebook-official" aria-hidden="true"></i>Facebook: <a href="https://www.facebook.com/PsicologiaPositivaPeru/?fref=ts" target="_blank">https://www.facebook.com/PsicologiaPositivaPeru/?fref=ts</a><br>
-			  				<i class="fa fa-phone-square" aria-hidden="true"></i>Teléfonos de Contacto: <a href="tel: 954010126" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">954010126</a> – <a href="tel: 985047849" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">985047849</a> - rpm: <a href="tel: *555558" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">*555558</a>
-		  				</p>
-	  				</div> -->
-				</div>
+	  			
+				
+			
+
+  				<div class="informacion-contacto">
+	  				<p>
+	  					<i class="fa fa-envelope" aria-hidden="true"></i>Correos: <a href="mailto:muki@mukipalacios.com">Muki@mukipalacios.com</a><br>
+		  				<i class="fa fa-globe" aria-hidden="true"></i>Página Web: <a href="http://www.mukipalacios.com/">www.mukipalacios.com</a><br>
+		  				<i class="fa fa-facebook-official" aria-hidden="true"></i>Facebook: <a href="https://www.facebook.com/PsicologiaPositivaPeru/?fref=ts" target="_blank">https://www.facebook.com/PsicologiaPositivaPeru/?fref=ts</a><br>
+		  				<i class="fa fa-phone-square" aria-hidden="true"></i>Teléfonos de Contacto: <a href="tel: 985047849" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">985 047 849</a>  - rpm: <a href="tel: *555558" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">*555558</a>
+	  				</p>
+
 			</div>
 		</div>
 	</div>

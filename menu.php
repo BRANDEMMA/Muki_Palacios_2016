@@ -43,7 +43,7 @@
 						<li><a href="centro-felicidad.php">Centro Felidad</a></li>
 						<li><a href="servicios-felices.php">Servicio Felices</a></li>
 						<li><a href="http://www.mukipalacios.com/blog/">Blog </a></li>
-						<li><a href="https://www.youtube.com/user/mukipd">Recursos Felices</a></li>
+						<li><a href="galeria.php">Prensa Galería</a></li>
 						<li><a href="conozcamonos.php">Conozcámonos</a></li>
 					</ul>
 				</nav>
@@ -241,14 +241,14 @@
 								</ul>
 						</li>
 						<li>
-							<a href=""><br>Galería</a>
+							<a href="galeria.php">Prensa<br>Galería</a>
 							<div class="linea-menu color7"></div>
 							<ul class="children7">
 									<li class="ind"> <div class="col">
-										<a href="recursos-felices-video.php"><h2>Videos - Prensa</h2></a>
+										<a href="galeria.php"><h2>Prensa</h2></a>
 										<p> Material interactivo para aprender. Material interactivo para conocernos.
 										</p>
-										<a href="recursos-felices-galeria.php"><h2>Galería Feliz</h2></a>
+										<a href="galeria.php"><h2>Galería Feliz</h2></a>
 										<p> Nuestras experiencias. Nuestros recuerdos felices.</p>
 										</div>
 
