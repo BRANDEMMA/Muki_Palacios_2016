@@ -100,7 +100,7 @@
 					<h2>NUESTRO CENTRO DE LA FELICIDAD</h2>
 					<p>Somos el primer centro de Psicología Positiva en el Perú y nos dedicamos a brindar servicios orientados a conseguir un BIENESTAR INTEGRAL en las personas, familias y organizaciones y lo hacemos a través de conferencias, cursos, talleres, programas (Reinventa Mujer, Felicidad en el trabajo, Camina, Familias Felices) y otras actividades que promuevan la presencia de emociones positivas en la vida diaria.<br><br>
  
-					Trabajamos para que cada persona que llegue a nuestro centro aprenda a reconocer  sus recursos personales,  a consolidar o definir un propósito en su vida, a desarrollar la capacidad de APRECIAR todo lo que la vida le regala, a trabajar para que sus relaciones personales sean relaciones positivas y que puedan aplicar lo anterior en su vida diaria…con su familia, en el trabajo u otros ámbitos y logren cambiar su actitud hacia el pasado,  tener esperanza con el futuro, pero sobre todo a que empiecen a disfrutar de su PRESENTE y puedan “Florecer dónde estás  plantados”.  </p>
+					Trabajamos para que cada persona que llegue a nuestro centro aprenda a reconocer  sus recursos personales,  a consolidar o definir un propósito en su vida, a desarrollar la capacidad de APRECIAR todo lo que la vida le regala, a trabajar para que sus relaciones personales sean relaciones positivas y que puedan aplicar lo anterior en su vida diaria…con su familia, en el trabajo u otros ámbitos y logren cambiar su actitud hacia el pasado,  tener esperanza con el futuro, pero sobre todo a que empiecen a disfrutar de su PRESENTE y puedan <strong>“Florecer dónde estás  plantado”</strong>.  </p>
 				</div>
 
 				<div class="img-centro-felicidad"><img src="img/centro-felicidad.jpg"></div>
