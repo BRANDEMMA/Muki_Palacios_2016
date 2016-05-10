@@ -1704,10 +1704,21 @@ img.videoscien{
 
 /*--==================== ESTILOS DE LA SECCION CONOZCAMONOS (INICIA) ========================--*/
 /*===  ESTILOS CONTENIDO DERECHA (INICIA)  ===*/
+.fondo-conozcamonos{
+  background: url(../img/fondo-linea-colores.jpg);
+  background-size: 100% 100%;
+  margin: 0 auto;
+  padding: 2% 0;
+  width: 95%;
+}
 .contenido-conozcamonos{
+  background: url(../img/pensamiento.png);
+  background-size: 100% 100%;
+  margin: 0 auto;
   width: 90%;
 }
 .contenido-conozcamonos h2{
+  margin-top: 0;
   color: #5E5E5E;
   font-family: "my-riad-pro-regular";
 }
@@ -1744,6 +1755,8 @@ img.videoscien{
 /* -------------------------------------------------------- */
 .contenedor-formulario{
   margin: 0 auto;
+  padding-bottom: 35%;
+  padding-top: 15%;
   text-align: center;
   width: 70%;
 }
