@@ -678,20 +678,14 @@ header{
   width: 45.9%;
 }
 .texto-detalle h2{
-  color: #C42726;
+  color: #DF1327;
   font-weight: lighter;
   position: relative;
   text-align: center;
 }
-.texto-detalle h2 img{
-  left: 5%;
-  margin-bottom: -3px;
-  position: absolute;
-  width: 15px;
-}
 .texto-detalle p{
   color: #9EA0A4;
-  text-align: justify;
+  text-align: center;
 }
 .separador-texto-detalle{
   border-right: 1px dotted #9EA0A4;
@@ -727,9 +721,12 @@ header{
   margin-top: 25px;
 }
 .vision-mision p{
-  margin: 0 auto;
+  border: 1px solid #EAEAEA;
+  border-radius: 15px;
   color: #9EA0A4;
-  width: 80%;
+  margin: 0 auto;
+  padding: 5% 5%;
+  width: 90%;
 }
 .valores{
   text-align: center;
@@ -742,15 +739,9 @@ header{
   width: 100%;
 }
 .valores h2{
-  color: #C42726;
+  color: #DF1327;
   font-weight: lighter;
   text-align: left;
-
-}
-.valores h2 img{
-  margin-bottom: -3px;
-  margin-right: 3%;
-  width: 15px;
 }
 .valores .circulo-valores{
   width: 70%;
@@ -827,7 +818,7 @@ img.videoscien{
   background: url(../img/fondo-filosofia.gif);
   background-size: 100% 100%;
   margin: 0 auto;
-  margin-bottom: 25%;
+  margin-bottom: 10%;
   padding: 10px 0;
   width: 350px;
 }
@@ -838,6 +829,7 @@ img.videoscien{
 }
 .nuestra-filosofia p{
   color: #9D9EA2;
+  margin-top: 25%;
   margin-bottom: 40%;
 }
 .linea-colores{

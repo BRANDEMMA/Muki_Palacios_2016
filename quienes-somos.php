@@ -98,13 +98,13 @@
 		<div class="derecha-contenido">
 			<div class="contenido-quienes-somos">
 				<div class="texto-detalle separador-texto-detalle">
-					<h2><img src="img/vineta.gif">¿QUIÉNES SOMOS?</h2>
-					<p>Somos un equipo de profesionales dedicados a cultivar FELICIDAD donde sea que esta necesite florecer.  Nuestra principal tarea es aplicar la ciencia para generar bienestar en las personas, familias y organizaciones.<br>
-					Creemos con convicción en la fórmula |Personas más Felices =  Personas más Productivos| y lo mejor de todo…¡Hemos comprobado que funciona!<br>
+					<h2>¿QUIÉNES SOMOS?</h2>
+					<p>Somos un equipo de profesionales dedicados a cultivar FELICIDAD donde sea que esta necesite florecer.  Nuestra principal tarea es aplicar la ciencia para generar bienestar en las personas, familias y organizaciones.<br><br>
+					Creemos con convicción en la fórmula |Personas más Felices =  Personas más Productivos| y lo mejor de todo…¡Hemos comprobado que funciona!<br><br>
 					Nuestra meta será siempre su FELICIDAD. Al conseguirla, habremos cumplido nuestro objetivo. ¡Bienvenidos a nuestra página!</p>
 				</div>
 				<div class="texto-detalle">
-					<h2><img src="img/vineta.gif">¿QUÉ HACEMOS?</h2>
+					<h2>¿QUÉ HACEMOS?</h2>
 					<p>Desde el año 2008 venimos trabajando desde la base de la PSICOLOGIA POSITIVA más de 50.000 personas en 10  países realizando Intervenciones de Felicidad a personas, familias y empresas nacionales y transnacionales de primer nivel trabajando con pasión para promover el bienestar a través de la  generación de Emociones Positivas, desarrollar la Apreciatividad y potenciar el uso de las Fortalezas Personales.</p>
 				</div>
 
@@ -129,7 +129,7 @@
 				<div class="clear"></div>		
 
 				<div class="valores">
-					<h2><img src="img/vineta.gif">Nuestros Valores:</h2>
+					<h2>Nuestros Valores:</h2>
 
 					<img class="circulo-valores" src="img/nuestros-valores-muki-palacios.gif">
 				</div>
