@@ -199,7 +199,7 @@
 
 											</p>
 
-												<a href="conferencias-talleres.php"><h2>Talleres</h2></a>
+												<a href="conferencias-talleres.php"><h2>Full Days</h2></a>
 												<p>Trabajando en nuestro crecimiento personal
 
 												</p>
