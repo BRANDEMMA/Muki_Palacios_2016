@@ -82,7 +82,7 @@
 				<nav>
 					<ul>
 						<li>
-							<a href="">¿Quiénes somos?</a>
+							<a href="quienes-somos.php">¿Quiénes somos?</a>
 							<div class="linea-menu color1"></div>
 							<ul class="children">
 								<li class="ind"> <div class="col">
@@ -141,7 +141,7 @@
 								</ul>
 						</li>
 						<li>
-							<a href="modelo-fdep.php">Modelo<br>
+							<a href="modelo-florecer-donde-estas-plantado.php">Modelo<br>
 							F.D.E.P</a>
 							<div class="linea-menu color3"></div>
 							<ul class="children3">
