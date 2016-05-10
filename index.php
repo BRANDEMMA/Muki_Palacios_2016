@@ -177,7 +177,7 @@
 				</div>
 			</div>
 			<div class="contenedor-beneficios">
-				<h2>¿POR QUE INVERTIR EN FELICIDAD?</h2>
+				<h2>¿POR QUÉ INVERTIR EN FELICIDAD?</h2>
 				<div class="beneficio">
 						<img src="img/b1.gif">
 						<p>Personas con buen humor tienen objetivos más altos, rinden mejor y son más perseverantes (Fredrickson & Levenson, 1998)</p>
