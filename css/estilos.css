@@ -827,16 +827,18 @@ img.videoscien{
   background: url(../img/fondo-filosofia.gif);
   background-size: 100% 100%;
   margin: 0 auto;
-  margin-bottom: 10%;
+  margin-bottom: 25%;
+  padding: 10px 0;
   width: 350px;
 }
 .titulo-filosofia h2{
   color: white;
   font-weight: lighter;
+  margin: 0;
 }
 .nuestra-filosofia p{
   color: #9D9EA2;
-  margin-bottom: 70%;
+  margin-bottom: 40%;
 }
 .linea-colores{
   margin-top: 5%;
@@ -3689,3 +3691,13 @@ img.videoscien{
 
 
 /*--==================== ESTILOS CONTENIDO (TERMINA) ========================--*/
+
+
+
+
+
+/*--==================== ESTILOS DEL RESPONSIVE (INICIA) ========================--*/
+@media(max-width: 1000px){
+
+}
+/*--==================== ESTILOS DEL RESPONSIVE (TERMINA) ========================--*/

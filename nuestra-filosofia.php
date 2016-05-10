@@ -98,9 +98,9 @@
 			<div class="contenedor-nuestra-filosofia">
 				<div class="nuestra-filosofia">
 					<div class="titulo-filosofia"><h2>NUESTRA FILOSOFIA</h2></div>
-					<p>Creemos que los grandes conocimientos científicos acerca de la Ciencia de la Felicidad se pueden hacer más asequibles para el público en general. La complejidad de lo escrito por el mundo académico tiene un gran contenido pero puede resultar tediosa, complicada y no necesariamente accesible para todo tipo de público. Nosotros buscamos que estos sean igual de accesibles que los libros de autoayuda, pero que a diferencia de estos, sí cuenten con un alto nivel de rigor científico. <br><br>
+					<p>Creemos que los grandes conocimientos científicos acerca de la Ciencia de la Felicidad se pueden hacer más asequibles para el público en general. La complejidad de lo escrito por el mundo académico tiene un gran contenido pero puede resultar tediosa, complicada y no necesariamente accesible para todo tipo de público. Nosotros buscamos que estos sean igual de accesibles que los libros de autoayuda, pero que a diferencia de estos, sí cuenten con un alto nivel de rigor científico. <br><br><br><br><br>
 
-					Nuestro trabajo es sintetizar, extraer, gestionar y difundir los grandes  conocimientos de la ciencia en el campo de la Psicología Positiva para poder transmitírselo de manera totalmente práctica a personas, familias y organizaciones para que puedan aplicarlo a su vida con facilidad. <br><br>
+					Nuestro trabajo es sintetizar, extraer, gestionar y difundir los grandes  conocimientos de la ciencia en el campo de la Psicología Positiva para poder transmitírselo de manera totalmente práctica a personas, familias y organizaciones para que puedan aplicarlo a su vida con facilidad. <br><br><br><br><br>
 
 					Producto de estos avances científicos creamos nuestro propio  Modelo de Felicidad llamado: “Florecer donde estás plantado” y lo compartimos con ustedes para que puedan tener a su alcance lo mejor que nos dice la Ciencia del Buen Vivir y puedan empezar a CONSTRUIR su propia FELICIDAD.</p>
 				</div>
