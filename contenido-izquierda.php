@@ -21,6 +21,13 @@
 				<a class="boton-verde" href="">SUSCRIBETE <img src="img/suscribete.png"></a>
 			</div>
 		</a>
+		<a href="">
+			<div class="articulos-izquierda">
+				<h2>ACRÓSTICO FELICIDAD</h2>
+				<a href="img/acrostico-happy.jpg" data-lightbox="example-set"><img class="articulo-imagen5" src="img/acrostico-felicidad.jpg"></a>
+			
+			</div>
+		</a>
 		<a href="javascript:void( window.open('http://form.jotformz.com/form/51592129569667', 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))">
 			<div class="articulos-izquierda">
 				<h2>DESCARGA MI<br>LIBRO GRATIS</h2>
@@ -28,14 +35,7 @@
 				<div class="clear"></div>
 				<a class="boton-verde" href="javascript:void( window.open('http://form.jotformz.com/form/51592129569667', 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))">DESCARGALO <img src="img/descargar.png"></a>
 			</div>
-		</a>
-		<a href="">
-			<div class="articulos-izquierda">
-				<h2>ACROSTICO FELICIDAD</h2>
-				<a href="img/acrostico-happy.jpg" data-lightbox="example-set"><img class="articulo-imagen5" src="img/acrostico-felicidad.jpg"></a>
-			
-			</div>
-		</a>
+		</a>		
 	</div>
 <?php
 ?>
