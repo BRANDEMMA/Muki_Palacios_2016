@@ -172,6 +172,11 @@
 										<p> Conoce el lugar donde construimos el bienestar
 
 										</p>
+
+										<a href="centro-felicidad.php"><h2>Talleres</h2></a>
+												<p>Trabajando en nuestro crecimiento personal
+
+												</p>
 								</div>
 
 
