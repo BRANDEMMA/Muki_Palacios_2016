@@ -1706,14 +1706,15 @@ img.videoscien{
   width: 95%;
 }
 .contenido-conozcamonos{
-  background: url(../img/pensamiento.png);
-  background-size: 100% 100%;
+  background-color: white;
+  border: 5px solid #41A82D;
+  border-radius: 50px;
   margin: 0 auto;
   width: 90%;
 }
 .contenido-conozcamonos h2{
   margin-top: 0;
-  color: #5E5E5E;
+  color: #41A82D;
   font-family: "my-riad-pro-regular";
 }
 .contenido-conozcamonos h3{
@@ -1750,9 +1751,9 @@ img.videoscien{
 .contenedor-formulario{
   margin: 0 auto;
   padding-bottom: 35%;
-  padding-top: 15%;
+  padding-top: 10%;
   text-align: center;
-  width: 70%;
+  width: 80%;
 }
 .formulario-izquierda{
   float: left;
