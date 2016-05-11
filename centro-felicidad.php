@@ -96,7 +96,7 @@
 		?>
 		<div class="derecha-contenido">
 			<div class="contenedor-centro-felicidad">
-				<h2 class="azul">PSICOLOGÍA POSITIVA APLICADA</h2>
+				<h2 id="psicologia-positiva" class="azul">PSICOLOGÍA POSITIVA APLICADA</h2>
 
 				<h3 class="azul">PROGRAMAS</h3>
 				<div class="programa-reinventa-mujer">
@@ -242,7 +242,7 @@
 					<div class="clear"></div>
 				</div>
 
-				<h2 class="espaciado-clases azul">CLASES</h2>
+				<h2 id="clases" class="espaciado-clases azul">CLASES</h2>
 				<img class="img-centro-florecer" src="img/slider3.jpg">
 
 				

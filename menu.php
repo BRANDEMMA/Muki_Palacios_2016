@@ -169,23 +169,23 @@
 							<ul class="children4">
 									<li class="ind azul"> 
 									<div class="col">
-										<a href="centro-felicidad.php"><h2>Psicología Positiva Aplicada</h2></a>
+										<a href="centro-felicidad.php#psicologia-positiva"><h2>Psicología Positiva Aplicada</h2></a>
 										<p> Efectivos programas, talleres y más diseñados desde la ciencia
 
 										</p>
 
-										<a href="centro-felicidad.php"><h2>Talleres</h2></a>
+										<a href="centro-felicidad.php#talleres"><h2>Talleres</h2></a>
 												<p>Orientados a aumentar el bienestar en tus días
 
 												</p>
 								</div>
 								<div class="col">
-										<a href="centro-felicidad.php"><h2>Clases</h2></a>
+										<a href="centro-felicidad.php#clases"><h2>Clases</h2></a>
 										<p> Actividades rutinarias para sentirnos bien
 
 										</p>
 
-										<a href="centro-felicidad.php"><h2>Alquila nuestro Centro Florecer</h2></a>
+										<a href="centro-felicidad.php#alquila"><h2>Alquila nuestro Centro Florecer</h2></a>
 												<p>Tú opción más divertida para realizar eventos, conferencias y reuniones
 
 												</p>
