@@ -893,20 +893,22 @@ img.videoscien{
   margin: 0 auto;
   width: 95%;
 }
-.centro-felicidad{
-  margin: 0 auto;
+.azul{
+  color: #135BA1;
+  font-weight: lighter; 
+}
+.espaciado-conferencias{
+  margin-top: 10%;
+}
+.espaciado-fulldays{
   margin-top: 5%;
-  text-align: center;
-  width: 60%;
 }
-.centro-felicidad h2{
-  color: #3F589F;
-  font-weight: lighter;
-  margin-bottom: 7%;
+.espaciado-clases{
+  margin-top: 10%;
 }
-.centro-felicidad p{
-  color: #9D9EA2;
-  margin-bottom: 10%;
+.img-centro-florecer{
+  border-radius: 10px;
+  width: 100%;
 }
 .muki-palacios img{
   border: 10px solid #D0CFCF;
