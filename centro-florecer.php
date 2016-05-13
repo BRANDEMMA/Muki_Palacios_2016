@@ -244,8 +244,10 @@
 
 				<h2 id="clases" class="espaciado-clases azul">CLASES</h2>
 				<img class="img-centro-florecer" src="img/slider3.jpg">
+				<img class="img-centro-florecer" src="img/talleres.png">
 
-				
+				<h2 id="talleres" class="espaciado-clases azul">TALLERES</h2>
+				<img class="img-centro-florecer" src="img/talleres.png">				
 			</div>
 		</div>
 	</div>
