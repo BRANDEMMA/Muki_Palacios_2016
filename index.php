@@ -93,7 +93,7 @@
 			<div id="contenedor-slider">
 				<div id="slider">
 					<section>
-						<img src="img/slider.jpg" alt="">
+						<img src="img/flyercentrofelicidad.jpg" alt="">
 					</section>
 					<section>
 						<img src="img/slider2.jpg" alt="">

@@ -203,6 +203,10 @@ padding: 10px;}
   opacity:1;
   width: 640px;
 }
+.menu-principal nav ul li ul.children li a{
+  margin: 0 auto;
+  padding: 5px 0;
+}
 
 
 
@@ -218,7 +222,8 @@ padding: 10px;}
 
 .menu-principal nav ul li ul.children2 li a{
     color: #fefefe !important;
-    padding: 13px 0 13px 20px;
+    margin: 0 auto;
+    padding: 5px 0;
     width: 130px;
     border-bottom: 1px solid #2f2f2f;
     background: url(img/arrow-normal.png) no-repeat 7px center !important;
@@ -249,6 +254,7 @@ padding: 10px;}
   padding-bottom: 0;
 }
 .children2 p{
+  color: black;
   margin-top: 0;
 	font-size: 0.8em;
 }
@@ -264,7 +270,8 @@ padding: 10px;}
 
 .menu-principal nav ul li ul.children3 li a{
     color: #fefefe !important;
-    padding: 13px 0 13px 20px;
+    margin: 0 auto;
+    padding: 5px 0;
     width: 130px;
     border-bottom: 1px solid #2f2f2f;
     background: url(img/arrow-normal.png) no-repeat 7px center !important;
@@ -310,7 +317,8 @@ padding: 10px;}
 }
 .menu-principal nav ul li ul.children4 li a{
     color: #fefefe !important;
-    padding: 13px 0 13px 20px;
+    margin: 0 auto;
+    padding: 5px 0;
     width: 130px;
     border-bottom: 1px solid #2f2f2f;
     background: url(img/arrow-normal.png) no-repeat 7px center !important;
@@ -341,7 +349,7 @@ padding: 10px;}
   padding-bottom: 0;
 }
 .children4 p{
-
+  color: black;
 	font-size: 0.8em;
   margin-top: 0;
 }
@@ -358,7 +366,8 @@ padding: 10px;}
 
 .menu-principal nav ul li ul.children5 li a{
     color: #fefefe !important;
-    padding: 13px 0 13px 20px;
+    margin: 0 auto;
+    padding: 5px 0;
     width: 130px;
     border-bottom: 1px solid #2f2f2f;
     background: url(img/arrow-normal.png) no-repeat 7px center !important;
@@ -406,7 +415,8 @@ padding: 10px;}
 
 .menu-principal nav ul li ul.children6 li a{
     color: #fefefe !important;
-    padding: 13px 0 13px 20px;
+    margin: 0 auto;
+    padding: 5px 0;
     width: 130px;
     border-bottom: 1px solid #2f2f2f;
     background: url(img/arrow-normal.png) no-repeat 7px center !important;
@@ -453,7 +463,8 @@ padding: 10px;}
 
 .menu-principal nav ul li ul.children7 li a{
     color: #fefefe !important;
-    padding: 13px 0 13px 20px;
+    margin: 0 auto;
+    padding: 5px 0;
     width: 130px;
     border-bottom: 1px solid #2f2f2f;
     background: url(img/arrow-normal.png) no-repeat 7px center !important;
@@ -502,7 +513,8 @@ padding: 10px;}
 
 .menu-principal nav ul li ul.children8 li a{
     color: #fefefe !important;
-    padding: 13px 0 13px 20px;
+    margin: 0 auto;
+    padding: 5px 0;
     width: 130px;
     border-bottom: 1px solid #2f2f2f;
     background: url(img/arrow-normal.png) no-repeat 7px center !important;
@@ -532,7 +544,7 @@ padding: 10px;}
   padding-bottom: 0;
 }
 .children8 p{
-
+  color: black;
 	font-size: 0.8em;
   margin-top: 0;
 }

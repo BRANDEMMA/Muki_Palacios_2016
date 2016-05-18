@@ -116,8 +116,8 @@
 							<a href="quien-es-muki.php">Muki Palacios</a>
 							<div class="linea-menu color2"></div>
 							<ul class="children2" style="padding-bottom:0;">
-									<li class="verde "> <div class="col">
-										<a href="quien-es-muki.php"><h2>¿Quién es Muki?</h2></a>
+									<li class="verde"> <div class="col">
+										<a  href="quien-es-muki.php"><h2>¿Quién es Muki?</h2></a>
 										<p>Conoce su trayectoria</p>
 										<a href="mi-proposito.php"><h2>Mi propósito</h2></a>
 										<p>Trabajando para dejar una huella</p>
