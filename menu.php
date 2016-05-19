@@ -87,7 +87,7 @@
 							<ul class="children">
 								<li class="ind"> <div class="col">
 									<a href="quienes-somos.php"><h2>¿Quiénes Somos?</h2></a>
-									<p> Conoce por qué somos los Expertos es Felicidad
+									<p> Conoce por qué somos los Expertos en Felicidad
 									</p>
 										<a href="quienes-somos.php"><h2>¿Qué hacemos?</h2></a>
 									<p> Aplicamos la Psicología Positiva en tu día a día
