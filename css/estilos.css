@@ -213,6 +213,60 @@ header{
 /*--==================== ESTILOS CABECERA (LOGO, REDES SOCIALES, MENU) (TERMINA) ========================--*/
 
 
+/*--==================== ESTILOS MENU RESPONSIVE (INICIA) ========================--*/
+.menu-responsive{
+  
+  margin: 0 auto;
+  position: relative;
+  width: 100%
+}
+#btn-menu{
+  display: none;
+}
+.menu-responsive label{
+  cursor: pointer;
+  height: 40px;
+  padding: 5px;
+  width: 40px;
+}
+.menu-responsive img{
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  width: 40px;
+}
+.menu{
+  margin-left: -100%;
+  transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  position: absolute;
+  width: 70%;
+  z-index: 10000;
+}
+.menu ul{
+  background-color: rgba(255,255,255,0.4);
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.menu li a{
+  color: #5E5E5E;
+  display: block;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+.menu li a:hover{
+  color: brown;
+}
+#btn-menu:checked ~ .menu{
+  margin: 0;
+}
+/*--==================== ESTILOS MENU RESPONSIVE (TERMINA) ========================--*/
+
 
 /*--==================== ESTILOS CONTENIDO (INICIA) ========================--*/
 .contenido{
@@ -1820,123 +1874,6 @@ img.videoscien{
 }
 /*===  ESTILOS CONTENIDO DERECHA (TERMINA)  ===*/
 /*--==================== ESTILOS DE LA SECCION CONOZCAMONOS (TERMINA) ========================--*/
-
-
-#menu{
-	width: 90%;
-  display: flex;
-}
-@media (max-width: 540px){
-  .menu2{
-    width: 80%;
-  }
-  .menu2 ul{
-    width: 100%;
-  }
-}
-
-
-
-/*-------- MENU RESPONSIVE ---------*/
-#menuresponsive{
-  display: none;
-  width: 100%;
-  background-color: #10458b;
-}
-#menuresponsive p{
-  width: 70%;
-  color: white;
-  padding-left: 20px;
-  padding: 1.5%;
-  float: left;
-  margin: 0;
-}
-#bt-menu{
-  display: none;
-}
-#menuresponsive label{
-  display: ;
-  float: right;
-  width: 30px;
-  height: auto;
-  padding: 10px;
-  border-left: 1px solid white;
-}
-#menuresponsive label img{
-  width: 70%;
-}
-
-#menuresponsive label:hover{
-  cursor: pointer;
-  background-color: rgba(0,0,0,0.3);
-}
- .menu2 ul{
-  margin: 0;
-  list-style: none;
-  padding: 0;
-  display: flex;
- }
- .menu2 ul li:hover{
-  background-color: rgba(0,0,0,0.3);
- }
- .menu2 li{
-  border-right: 1px solid white;
- }
- .menu2 li a{
-  display: block;
-  padding: 15px 20px;
-  color: white;
-  text-decoration: none;
-  font-size: 0.6em;
- }
-
- @media (max-width: 768px){
-
-  .menuprincipal{
-    display: none;
-  }
-  #menuresponsive{
-    display: block;
-  }
-  #menuresponsive label{
-    display: block;
-  }
-  .menu2{
-    display: block;
-    position: absolute;
-    right: 0;
-    width: 180px;
-    margin-right: -180px;
-    transition: all 0.5s;
-    z-index: 10000;
-  }
-
-  .menu2 ul{
-    flex-direction: column;
-    background-color: #10458b;
-    float: right;
-    width: 100%;
-  }
-  .menu2 li{
-    border-top: 1px solid white;
-    background-color: #10458b;
-    float: right;
-  }
-  .menu2 li a{
-    font-size: 0.8em;
-  }
-
-  #bt-menu:checked ~ .menu2 {
-    margin-right: 0;
- }
-
-
-
-
-
-
-
-
 
 
  /*!
@@ -3695,7 +3632,39 @@ img.videoscien{
 
 
 /*--==================== ESTILOS DEL RESPONSIVE (INICIA) ========================--*/
-@media(max-width: 1000px){
-
+@media(max-width: 1011px){
+  .menu-principal nav ul li a{
+    padding: 15px 0;
+  }
+  .servicios{
+    width: 23.9%;
+  }
+}
+@media(max-width: 900px){
+  .articulos-izquierda .articulo-imagen2,.articulos-izquierda .articulo-imagen3, .articulos-izquierda .articulo-imagen4{
+    margin-bottom: 10px;
+  }
+  .reinventa-mujer .enlace-foto2 img:nth-child(1),.reinventa-mujer .enlace-foto3 img:nth-child(1),.felicidad-trabajo .enlace-foto2 img:nth-child(1),.felicidad-trabajo .enlace-foto3 img:nth-child(1),.camina .enlace-foto2 img:nth-child(1),.camina .enlace-foto3 img:nth-child(1),.familias-felices .enlace-foto2 img:nth-child(1),.familias-felices .enlace-foto3 img:nth-child(1){
+    padding-top: 5px;
+  }
+  .izquierda-cabecera{
+    width: 27%;
+  }
+  .derecha-cabecera{
+    width: 70%;
+  }
+  .redes-sociales p{
+    padding-right: 23%;
+  }      
+}
+@media(max-width: 800px){
+  #slider-pequeno section{
+    margin: 0 10px;
+  }
+}
+@media(max-width: 750px){
+  .menu-principal{
+    display: none;
+  }
 }
 /*--==================== ESTILOS DEL RESPONSIVE (TERMINA) ========================--*/

@@ -26,56 +26,54 @@
 			<div class="clear"></div>
 
 
-
-
-
-
-			<div id="menuresponsive">
-				<p>EXPERTOS EN FELICIDAD</p>
-				<input type="checkbox" id="bt-menu"/>
-				<label for="bt-menu"><img src="img/icon-menu.png"></label>
-				<div class="clear"></div>
-				<nav class="menu2">
-					<ul>
-						<li><a href="quienes-somos.php">¿Quienes somos?</a></li>
-						<li><a href="quien-es-muki.php">Muki Palacios</a></li>
-						<li><a href="modelo-florecer-donde-estas-plantado.php">Modelo F.D.E.P.</a></li>
-						<li><a href="centro-florecer.php">Centro Florecer</a></li>
-						<li><a href="servicios-felices.php">Servicio Felices</a></li>
-						<li><a href="http://www.mukipalacios.com/blog/">Blog </a></li>
-						<li><a href="galeria.php">Prensa Galería</a></li>
-						<li><a href="conozcamonos.php">Conozcámonos</a></li>
-					</ul>
-				</nav>
-				<div class="clear"></div>
-			</div>
-				<div class="clear"></div>
-			<!-- SlidesJS Required: Start Slides -->
-			<!-- The container is used to define the width of the slideshow -->
-			<div class="container">
-
-				<div id="slides">
-					<a href="http://google.com"><img src="img/slider/imago-ploteos.jpg" alt="Imago Ploteos"></a>
-					<a href="#"><img src="img/slider/imago-digitalizacion.jpg" alt="Photo by: Daniel Parks Link: http://www.flickr.com/photos/parksdh/5227623068/"></a>
-					<a href="#"><img src="img/slider/imago-ploteos.jpg" alt="Photo by: Mike Ranweiler Link: http://www.flickr.com/photos/27874907@N04/4833059991/"></a>
-					<a href="#"><img src="img/slider/imago-digitalizacion.jpg" alt="Photo by: Stuart SeegerLink: http://www.flickr.com/photos/stuseeger/97577796/"></a>
-				</div>
-
-
-			</div>
-			<!-- End SlidesJS Required: Start Slides -->
-
-
-
-
-
-
-
-
-
-
-
-
+			<div class="menu-responsive">
+		      <input type="checkbox" id="btn-menu">
+		      <label for="btn-menu">
+		        <img src="img/menu-responsive.png">
+		      </label>
+		      <nav class="menu">
+		        <ul>
+		          <li><a href="index.php">¿Quiénes Somos?</a>
+		          	<ul>
+		          		<li>¿Quiénes Somos?</li>
+		          		<li>¿Qué es la Psicología Positiva?</li>
+		          		<li>¿Qué hacemos?</li>
+		          		<li>Nuestra Filosofía</li>
+		          	</ul>
+		          </li>
+		          <li><a href="historia.php">Muki Palacios</a>
+		          	<ul>
+		          		<li>¿Quién es Muki?</li>
+		          		<li>Mi propósito</li>
+		          	</ul>
+		          </li>
+		          <li><a href="index.php#productos" title="Productos">Modelo F.D.E.P</a></li>
+		          <li><a href="index.php#presentaciones" title="Presentaciones">Centro Florecer</a>
+		          	<ul>
+		          		<li>Psicología Positiva Aplicada</li>
+		          		<li>Clases</li>
+		          		<li>Talleres</li>
+		          		<li>Alquila Nuestro Centro Florecer</li>
+		          	</ul>
+		          </li>
+		          <li><a href="">Servicios Felices</a>
+		          	<ul>
+		          		<li>Programas</li>
+		          		<li>Conferencias</li>
+		          		<li>Full Days</li>
+		          	</ul>
+		          </li>
+		          <li><a href="index.php#contacto" title="Contacto">Blog</a></li>
+		          <li><a href="index.php#contacto" title="Contacto">Prensa Galería</a>
+		          	<ul>
+		          		<li>Prensa</li>
+		          		<li>Galería Feliz</li>
+		          	</ul>
+		          </li>
+		          <li><a href="index.php#contacto" title="Contacto">Conozcámonos</a></li>
+		        </ul>
+		      </nav>
+		    </div>
 
 
 			<div class="menu-principal">
