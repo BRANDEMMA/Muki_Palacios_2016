@@ -215,8 +215,9 @@ header{
 
 /*--==================== ESTILOS MENU RESPONSIVE (INICIA) ========================--*/
 .menu-responsive{
-  
+  display: none;
   margin: 0 auto;
+  margin-bottom: 10px;
   position: relative;
   width: 100%
 }
@@ -260,10 +261,20 @@ header{
   text-decoration: none;
 }
 .menu li a:hover{
-  color: brown;
+  color: red;
 }
 #btn-menu:checked ~ .menu{
   margin: 0;
+}
+.menu li ul{
+  display: none;
+  padding-left: 15px; 
+}
+.menu li ul li{
+  color: red;
+}
+.menu li:hover > ul{
+  display: inline-block;
 }
 /*--==================== ESTILOS MENU RESPONSIVE (TERMINA) ========================--*/
 
@@ -3663,8 +3674,27 @@ img.videoscien{
   }
 }
 @media(max-width: 750px){
+  .izquierda-cabecera{
+    width: 30%;
+  }
+  .derecha-cabecera{
+    width: 67%;
+  }
   .menu-principal{
     display: none;
+  }
+  .menu-responsive{
+    display: block;
+  }
+  .beneficio{
+    width: 95%;
+  }
+  .espaciado{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .izquierda-beneficio{
+    margin-right: 20px;
   }
 }
 /*--==================== ESTILOS DEL RESPONSIVE (TERMINA) ========================--*/
