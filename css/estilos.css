@@ -592,6 +592,14 @@ header{
 .contenedor-video video{
   width: 70%;
 }
+
+
+
+iframe.blog{
+  width: 100%;
+  border: none;
+  height: 500px;
+}
 /*ESTILOS DE LA SECCION DE VIDEO (TERMINA)*/
 
 /*ESTILOS SLIDER PEQUEÑO (INICIA)*/
