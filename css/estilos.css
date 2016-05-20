@@ -589,8 +589,8 @@ header{
   font-family: "my-riad-pro-regular";
   margin-bottom: 5%;
 }
-.contenedor-video iframe{
-
+.contenedor-video video{
+  width: 70%;
 }
 /*ESTILOS DE LA SECCION DE VIDEO (TERMINA)*/
 
@@ -604,6 +604,14 @@ header{
   color: #5E5E5E;
   font-family: "my-riad-pro-regular";
   margin-bottom: 5%;
+}
+.galeria-slider{
+  display: none;
+  width: 100%;
+}
+.galeria-slider img{
+  margin-bottom: 10px;
+  width: 24%;
 }
 #contenedor-slider-pequeno{
   position: relative;
@@ -665,6 +673,7 @@ header{
 
 /*ESTILOS BENEFICIOS (INICIA)*/
 .contenedor-beneficios{
+  font-family: "my-riad-pro-regular";
   margin-top: 10%;
   text-align: center;
   width: 100%;
@@ -704,6 +713,7 @@ header{
 }
 .opciones-pie-pagina{
   float: left;
+  font-family: "my-riad-pro-regular";
   margin-bottom: 3%;
   margin-top: 3%;
   text-align: center;
@@ -733,6 +743,7 @@ header{
 /*--==================== ESTILOS DE LA SECCION ¿QUIENES SOMOS? (INICIA) ========================--*/
 /*===  ESTILOS CONTENIDO DERECHA (INICIA)  ===*/
 .contenido-quienes-somos{
+  font-family: "my-riad-pro-regular";
   padding-top: 6%;
   padding-bottom: 3%;
   width: 90%;
@@ -830,6 +841,7 @@ img.videoscien{
 
 /*--==================== ESTILOS DE LA SECCION PSICOLOGIA POSITIVA (INICIA) ========================--*/
 .contenido-psicologia-positiva{
+  font-family: "my-riad-pro-regular";
   margin: 0 auto;
   padding: 3% 0;
   text-align: justify;
@@ -870,6 +882,7 @@ img.videoscien{
 
 /*--==================== ESTILOS DE LA SECCION NUESTRA FILOSOFIA (INICIA) ========================--*/
 .contenedor-nuestra-filosofia{
+  font-family: "my-riad-pro-regular";
   margin: 0 auto;
   width: 95%;
 }
@@ -3643,16 +3656,35 @@ img.videoscien{
 
 
 /*--==================== ESTILOS DEL RESPONSIVE (INICIA) ========================--*/
-@media(max-width: 1011px){
+@media(max-width: 1050px){
+  .titulo-filosofia{
+    width: 250px;
+  }
+}
+@media(max-width: 1024px){
   .menu-principal nav ul li a{
     padding: 15px 0;
   }
+  .contenido-psicologia-positiva{
+    width: 90%;
+  }
+  .contenedor-nuestra-filosofia{
+    width: 90%;
+  }
+  .nuestra-filosofia{
+    width: 100%;
+  }
+  .nuestra-filosofia p{
+    margin-bottom: 30%;
+  }
+}
+@media(max-width: 1011px){
   .servicios{
     width: 23.9%;
   }
 }
 @media(max-width: 900px){
-  .articulos-izquierda .articulo-imagen2,.articulos-izquierda .articulo-imagen3, .articulos-izquierda .articulo-imagen4{
+  .articulos-izquierda .articulo-imagen2,.articulos-izquierda .articulo-imagen3, .articulos-izquierda .articulo-imagen4,.articulos-izquierda .articulo-imagen5{
     margin-bottom: 10px;
   }
   .reinventa-mujer .enlace-foto2 img:nth-child(1),.reinventa-mujer .enlace-foto3 img:nth-child(1),.felicidad-trabajo .enlace-foto2 img:nth-child(1),.felicidad-trabajo .enlace-foto3 img:nth-child(1),.camina .enlace-foto2 img:nth-child(1),.camina .enlace-foto3 img:nth-child(1),.familias-felices .enlace-foto2 img:nth-child(1),.familias-felices .enlace-foto3 img:nth-child(1){
@@ -3666,6 +3698,12 @@ img.videoscien{
   }
   .redes-sociales p{
     padding-right: 23%;
+  }
+  .valores .circulo-valores{
+    width: 100%;
+  }
+  .alto-colores{
+    height: 100px;
   }      
 }
 @media(max-width: 800px){
@@ -3695,6 +3733,150 @@ img.videoscien{
   }
   .izquierda-beneficio{
     margin-right: 20px;
+  }
+  #btn-avanzar img, #btn-retroceder img{
+    width: 50%;
+  }
+  .servicios{
+    width: 23.7%;
+  }
+  .contenedor-video video{
+    width: 80%;
+  }
+  .texto-detalle{
+    width: 96%;
+  }
+  .separador-texto-detalle{
+    border-right: none;
+  }
+  .vision-mision{
+    margin: 0 2%;
+    margin-top: 5%;
+    width: 96%;
+  }
+  .espaciado-vision{
+    margin: 0 2%;
+    margin-top: 5%;
+  }
+  .titulo-filosofia{
+    margin-bottom: 5%;
+    width: 300px;
+  }
+  .contenido-quienes-somos{
+    padding-top: 0;
+  }
+  .contenido-psicologia-positiva{
+    padding-top: 0;
+  }
+  .contenido-psicologia-positiva p .img-psico, .contenido-psicologia-positiva p .img-origenes{
+    width: 45%;
+  }
+  .alto-colores{
+    height: 80px;
+  }
+}
+@media(max-width: 700px){
+  .galeria-slider{
+    display: block;
+  }
+  #contenedor-slider-pequeno{
+    display: none;
+  }
+}
+@media(max-width: 600px){
+  .opciones-pie-pagina{
+    width: 100%;
+  }
+  .izquierda-contenido{
+    width: 25%;
+  }
+  .derecha-contenido{
+    width: 73%;
+  }
+  .redes-sociales p{
+    padding-right: 34%;
+  }
+}
+@media(max-width: 550px){
+  .izquierda-cabecera{
+    padding-left: 0;
+    width: 38%;
+  }
+  .derecha-cabecera{
+    width: 62%;
+  }
+  .contenedor-video video{
+    width: 90%;
+  }
+  .contenido-quienes-somos{
+    width: 100%;
+  }
+}
+@media(max-width: 503px){
+  #contenedor-slider{
+    display: none;
+  }
+  .servicios{
+    margin-bottom: 3%;
+    margin-top: 0;
+    width: 48.4%;
+  }
+  .alto-colores{
+    height: 60px;
+  }
+}
+@media(max-width: 461px){
+  .servicios{
+    width: 48%;
+  } 
+  .articulos-izquierda .articulo-imagen3{
+    width: 30%;
+  }
+  .articulos-izquierda .articulo-imagen4{
+    width: 50%;
+  }
+}
+@media(max-width: 430px){
+  .cabecera{
+    padding-top: 25px;
+  }
+  .articulos-izquierda .boton-verde{
+    padding: 2px;
+  }
+  .titulo-filosofia{
+    padding: 5px 0;
+    width: 220px;
+  }
+}
+@media(max-width: 400px){
+  .izquierda-cabecera{
+    float: none;
+    margin: 0 auto;
+    width: 60%;
+  }
+  .derecha-cabecera{
+    float: none;
+    margin: 0 auto;
+    margin-top: 10%;
+  }
+  .derecha-cabecera .informacion{
+    line-height: 0.6;
+    text-align: center;
+  }
+  .redes-sociales p{
+    padding-right: 0;
+    text-align: center;
+  }
+  .redes-sociales{
+    float: none;
+    margin: 0 auto;
+  }
+  .articulos-izquierda .boton-verde img{
+    width: 10px;
+  }
+  .articulos-izquierda .boton-verde{
+    font-size: 0.7em;
+    width: 70px;
   }
 }
 /*--==================== ESTILOS DEL RESPONSIVE (TERMINA) ========================--*/

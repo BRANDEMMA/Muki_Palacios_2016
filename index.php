@@ -141,10 +141,27 @@
 			
 			<div class="contenedor-video">
 				<h2>VIDEO FLORECER DONDE ESTAS PLANTADO</h2>
-				<video poster="video/video-psicologia-positiva.jpg" width="70%" preload loop controls><source src="video/video.ogv" type="video/ogv"><source src="video/video.mp4" type="video/mp4"></video>
+				<video poster="video/video-psicologia-positiva.jpg" preload loop controls><source src="video/video.ogv" type="video/ogv"><source src="video/video.mp4" type="video/mp4"></video>
 			</div>
 			<div class="empresas-invierten">
 				<h2>EMPRESAS QUE INVIERTEN EN FELICIDAD</h2>
+
+				<div class="galeria-slider">
+					<a href="img/AFPRIMA.png" data-lightbox="example-set"><img src="img/AFPRIMA.png" alt=""></a>
+					<a href="img/BBVA.png" data-lightbox="example-set"><img src="img/BBVA.png" alt=""></a>
+					<a href="img/BOSCH.png" data-lightbox="example-set"><img src="img/BOSCH.png" alt=""></a>
+					<a href="img/CENTRIA.png" data-lightbox="example-set"><img src="img/CENTRIA.png" alt=""></a>
+					<a href="img/DHL.png" data-lightbox="example-set"><img src="img/DHL.png" alt=""></a>
+					<a href="img/FRUTAROM.png" data-lightbox="example-set"><img src="img/FRUTAROM.png" alt=""></a>
+					<a href="img/IPAE.png" data-lightbox="example-set"><img src="img/IPAE.png" alt=""></a>
+					<a href="img/METROPOLITANO.png" data-lightbox="example-set"><img src="img/METROPOLITANO.png" alt=""></a>
+					<a href="img/ODEBRECHT.png" data-lightbox="example-set"><img src="img/ODEBRECHT.png" alt=""></a>
+					<a href="img/OSINERGMIN.png" data-lightbox="example-set"><img src="img/OSINERGMIN.png" alt=""></a>
+					<a href="img/SBS.png" data-lightbox="example-set"><img src="img/SBS.png" alt=""></a>
+					<a href="img/STATKRAF.png" data-lightbox="example-set"><img src="img/STATKRAF.png" alt=""></a>
+				</div>
+
+
 				<div id="contenedor-slider-pequeno">
 					<div id="slider-pequeno">
 						<section>
