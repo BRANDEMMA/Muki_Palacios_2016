@@ -229,11 +229,11 @@
 								</ul>
 						</li>
 						<li>
-							<a href=""><br>Blog</a>
+							<a href="http://www.mukipalacios.com/muki-blog.php"><br>Blog</a>
 							<div class="linea-menu color6"></div>
 							<ul class="children6">
 									<li class="ind amarillo"> <div class="col">
-										<a href=""><h2>Blog</h2></a>
+										<a href="http://www.mukipalacios.com/muki-blog.php"><h2>Blog</h2></a>
 										<p> Entérate de los avances de la Psicología Positiva. Inspírate con los testimonios de Muki.
 
 

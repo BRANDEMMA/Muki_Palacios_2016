@@ -97,7 +97,7 @@
 		<div class="derecha-contenido">
 			<div class="contenedor-muki-palacios"><h2>BLOG</h2>
 
-					<iframe class="blog" src="http://www.mukipalacios.com/blog"></iframe>
+					<iframe class="blog" src="http://www.mukipalacios.com/blog/blog"></iframe>
 				
 
 				<div class="linea-colores"><img src="img/linea-colores.jpg"></div>
